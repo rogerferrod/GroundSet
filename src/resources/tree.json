@@ -1,0 +1,241 @@
+{
+  "elements": {
+    "Artificial features": {
+      "Building": {
+        "Hospital": [
+          "Hospital facility"
+        ],
+        "Cultural & exhibition": [
+          "Exhibition center",
+          "Ecomuseum"
+        ],
+        "Historic buildings": [
+          "Castle",
+          "Tower",
+          "Troglodyte dwelling",
+          "Arena or ancient theater"
+        ],
+        "Commerce & markets": [
+          "Market"
+        ],
+        "Residential & accommodation": [
+          "Recreational accommodation",
+          "Mountain shelter",
+          "Refuge",
+          "Campground"
+        ],
+        "Religious": [
+          "Church",
+          "Chapel"
+        ],
+        "Public services & emergency": [
+          "Fire station",
+          "Forestry house",
+          "Harbor master's office"
+        ],
+        "Security & military buildings": [
+          "Police",
+          "Barracks",
+          "Fort, bunker, casemate",
+          "Military enclosure",
+          "Military structure",
+          "Unfenced military camp"
+        ],
+        "Justice & detention": [
+          "Penal institution"
+        ],
+        "Transport buildings": [
+          "Bus station",
+          "Train station",
+          "Subway station",
+          "Tram station",
+          "Terminal",
+          "Ferry terminal",
+          "Cable car station",
+          "Air traffic control tower"
+        ],
+        "Water treatment plant": [
+          "Drinking water production plant",
+          "Pumping station",
+          "Water tower",
+          "Ground water tank or tower",
+          "Aqueduct"
+        ],
+        "Utilities & industrial buildings": [
+          "Power plant",
+          "Factory",
+          "Greenhouse",
+          "Silo",
+          "Livestock farming"
+        ],
+        "Sports & leisure (indoor / structures)": [
+          "Indoor sports complex",
+          "Ice rink",
+          "Stadium",
+          "Grandstand",
+          "Swimming pool"
+        ],
+        "Miscellaneous buildings": [
+          "Park house"
+        ]
+      },
+      "Transport": {
+        "Air transport": [
+          "Airfield",
+          "Altiport",
+          "Heliport",
+          "Grass runway",
+          "Hard runway"
+        ],
+        "Maritime transport": [
+          "Port",
+          "Slipway"
+        ],
+        "Rail & tram infrastructure": [
+          "Railroad",
+          "Tramway",
+          "Subway",
+          "Shunting yard"
+        ],
+        "Road": [
+          "Motorway type",
+          "Highway ramp",
+          "Gravel road",
+          "Intersection",
+          "Roundabout",
+          "Bridge"
+        ],
+        "Rest or service area": [
+          "Vehicle service area"
+        ],
+        "Roadside facilities & stops": [
+          "Passenger stop",
+          "Parking lot",
+          "Transport facility"
+        ],
+        "Lift system": [
+          "Gondola lift, cable car",
+          "Funicular or rack railway",
+          "Haul rope",
+          "Chairlift",
+          "Ski lift"
+        ],
+        "Other transport infra & components": [
+          "Port gantry",
+          "Toll booth",
+          "Service track"
+        ],
+        "Path": [
+          "Bicycle path"
+        ]
+      },
+      "Heritage": {
+        "Archaeological remains": [
+          "Megalith",
+          "Castle",
+          "Tower",
+          "Troglodyte dwelling",
+          "Arena or ancient theater"
+        ],
+        "Monument": [
+          "Triumphal arch"
+        ],
+        "Funerary": [
+          "Cemetery",
+          "Tomb"
+        ]
+      },
+      "Industry": {
+        "Extraction & industrial areas": [
+          "Industrial zone",
+          "Quarry",
+          "Pipeline (raw materials)",
+          "Industrial, agricultural or commercial zone"
+        ],
+        "Waste & disposal": [
+          "Waste disposal site"
+        ]
+      },
+      "Energy": {
+        "Energy production & infrastructure": [
+          "Pipeline (Hydrocarbons)",
+          "Power line",
+          "Electrical substation",
+          "Windmill",
+          "Dam"
+        ]
+      },
+      "Leisure & sports": {
+        "Outdoor sports & courses": [
+          "Golf course",
+          "Tennis court",
+          "Racetrack",
+          "Large sports field",
+          "Small multi-sports field",
+          "Sports track",
+          "Equestrian center"
+        ],
+        "Amusement & outdoor recreation": [
+          "Amusement park",
+          "Discovery trail",
+          "Zoo",
+          "Shooting stand",
+          "Shooting range"
+        ],
+        "Bicycle & auxiliary services": [
+          "Bicycle service area"
+        ]
+      },
+      "Hydraulic & civil infrastructure": {
+        "Artificial waterways": [
+          "Canal",
+          "Lock",
+          "Aqueduct",
+          "Culvert pipe",
+          "Penstock"
+        ],
+        "Urban amenities & public spaces": [
+          "Public space"
+        ],
+        "Pedestrian infrastructure": [
+          "Stairway",
+          "Slab"
+        ]
+      }
+    },
+    "Nature": {
+      "Vegetation": {
+        "Forests & woodlands": [
+          "Forest",
+          "Woodland"
+        ]
+      },
+      "Water body": [
+        "Sea",
+        "Pond",
+        "Marsh",
+        "Salt marsh",
+        "Dam reservoir",
+        "Reservoir",
+        "Harbor basin",
+        "Fish farming basin"
+      ],
+      "Watercourses": [
+        "Watercourse"
+      ],
+      "Geology & landforms": [
+        "Rock",
+        "Gravel or pebbles",
+        "Sand",
+        "Glacier, snowfield"
+      ],
+      "Agricultural land": [
+        "Hop field",
+        "Orchard",
+        "Various agricultural",
+        "Vineyard",
+        "Aquaculture"
+      ]
+    }
+  }
+}
