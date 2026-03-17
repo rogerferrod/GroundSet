@@ -1,6 +1,6 @@
 # GroundSet: Codebase for Cadastral-Grounded Spatial Understanding
 
-[![Paper](https://img.shields.io/badge/arXiv-Paper-b31b1b.svg)]()
+[![Paper](https://img.shields.io/badge/arXiv-Paper-b31b1b.svg)](https://arxiv.org/abs/2603.14609)
 [![Dataset](https://img.shields.io/badge/🤗_Hub-Dataset-ffd21e.svg)](https://huggingface.co/datasets/RogerFerrod/GroundSet)
 [![Model](https://img.shields.io/badge/🤗_Hub-Model-ffd21e.svg)](https://huggingface.co/RogerFerrod/GroundSet-LLaVA-1.6-7B)
 [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](LICENSE)
